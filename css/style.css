@@ -15,7 +15,7 @@
     box-sizing: border-box;
 }
 
-/* SECTOR INDEX */
+/* SECTOR INDEX RESPONSIVE 500*/
 
 .header-flex {
     background-color: #F56476;
@@ -169,7 +169,7 @@ a {
     position: relative;
 }
 
-/* CSS-SECTOR CONTACTO */
+/* CSS-SECTOR CONTACTO RESPONSIVE 500 */
 .contacto-css {
     background-color: #008DD5;
     font-size: 10px;
@@ -225,7 +225,7 @@ select {
 }
 
 
-/* CSS SECTOR SERVICIOS */
+/* CSS SECTOR SERVICIOS RESPONSIVE 500*/
 .servicios-grid {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -283,7 +283,7 @@ select {
 }
 
 
-/* CSS AREA INFORMACION RELEVANTE */
+/* CSS AREA INFORMACION RELEVANTE RESPONSIVE 500 */
 
 .informacion-relevante h2 {
     font-size: 30px;
