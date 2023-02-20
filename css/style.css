@@ -172,7 +172,7 @@ a {
 /* CSS-SECTOR CONTACTO */
 .contacto-css {
     background-color: #008DD5;
-    font-size: 28px;
+    font-size: 10px;
     height: 100vh;
     padding: 5rem;
     text-align: center;
@@ -185,13 +185,13 @@ input {
     color: #eb3705;
     font-size: 20px;
     position: relative;
-    top: -100px;
+    top: -60px;
 }
 
 select {
     position: relative;
-    top: -40px;
-    font-size: 15px;
+    top: 1px;
+    font-size: 20px;
     color: #ce0b0b;
 }
 
@@ -205,13 +205,15 @@ select {
 
 .novedad-contact{
     position: relative;
-    top: -90px;
-    font-size: 35px;
+    top: -80px;
+    font-size: 40px;
 }
 
 .recibir-nov{
     position: relative;
-    top: -70px;
+    font-size: 30px;
+    top: -80px;
+    text-align: center;
 }
 
 .icono-enviar{
@@ -284,15 +286,14 @@ select {
 /* CSS AREA INFORMACION RELEVANTE */
 
 .informacion-relevante h2 {
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
     text-decoration: underline;
 }
 
-.informacion-relevante {
-    font-size: 25px;
-    text-align: center;
-    background-color: #008DD5;
+.informacionrelevante-grid {
+    width: 100vw;
+    text-align: center; 
 }
 
 .informacion-relevante iframe {
@@ -300,6 +301,11 @@ select {
     width: 100vw;
 }
 
+.parrafo-ir{
+    text-align: center;
+    position: relative;
+    top: 5px;
+}
 
 /* CSS GALERIA PARA RESPONSIVE 500 */
 
